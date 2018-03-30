@@ -7,3 +7,5 @@ Comparing 5000 points(x,y) and using sliding window algorithm to find anomaly po
 # Python
 Python3 and mine Nokta class used for this code.
 
+# Screenshot
+![Sliding_Window](https://cdn.pbrd.co/images/HekqXho.png "Sliding Window")

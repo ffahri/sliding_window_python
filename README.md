@@ -1,4 +1,4 @@
-# sliding_windows_python
+# Project
 Sliding Window implementation on Python3 with 5000 points
 
 # Points difference
